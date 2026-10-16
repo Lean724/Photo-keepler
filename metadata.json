@@ -1,0 +1,6 @@
+{
+  "name": "Organizador Fotográfico Offline",
+  "description": "Organizador fotográfico offline profesional: clasificación por teclado, detección determinista de duplicados, similitud, ráfagas, borrosidad y organización segura sin IA ni conexión de red.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
